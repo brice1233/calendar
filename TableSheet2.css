@@ -1,0 +1,28 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align:center;
+}
+td,th{
+    border: 2px solid black;
+    width: 14.27%;
+}
+td{
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend{
+    background-color: blue;
+    color: green;
+}
+th{
+    padding: 9px 0;
+    background-color:purple;
+    color:lightblue;
+}
+.class{
+    background-color: yellow;
+    color: blue;
+}
